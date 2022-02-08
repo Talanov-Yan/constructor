@@ -1,7 +1,6 @@
 public class Animal {
     public Animal() {
         System.out.println("Создане Animal");
-        System.out.println();
     }
 }
  class Hippo extends Animal {
